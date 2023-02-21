@@ -1,5 +1,7 @@
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+
+// Change (192.168.1.120) to your Ip address
 const API_URL = "http://192.168.1.120:5000/api/users/";
 interface UserRegData {
   email: string;
