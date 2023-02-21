@@ -62,4 +62,4 @@ Here are some screenshots of the web and mobile apps:
  <img src="Screenshots/Screensho-test_Expo_Go.jpg" width="50%" height="auto">
 </p>
 
-# Thank you for checking out GitHub Investigator! If you have any questions or feedback, please don't hesitate to contact us.
+# Thank you for checking out GitHub Investigator! If you have any questions or feedback, please don't hesit.
