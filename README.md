@@ -37,32 +37,29 @@ The mobile app is built using React Native, Redux Toolkit, React Navigation, and
 Here are some screenshots of the web and mobile apps:
 
 ### Web App
-/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screensho-test_Expo_Go.jpg
 
 
+ <img src="Screenshots/Screenshot_web_login.png" width="auto" height="auto">
 
+ <img src="Screenshots/Screenshot_1_home.png" width="auto" height="auto">
 
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screenshot_web_login.png" width="auto" height="auto">
+ <img src="Screenshots/Screenshot_2_home.png" width="auto" height="auto">
 
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screenshot_1_home.png" width="auto" height="auto">
-
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screenshot_2_home.png" width="auto" height="auto">
-
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screenshot_3_.png" width="auto" height="auto">
+ <img src="Screenshots/Screenshot_3_.png" width="auto" height="auto">
 
 
 ### Mobile App
 
 
  <p align="center">
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screenshot_login_Expo_Go.jpg" width="50%" > 
+ <img src="Screenshots/Screenshot_login_Expo_Go.jpg" width="50%" > 
 </p>
  <p align="center">
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screenshot_home_Expo_Go.jpg" width="50%" height="auto"> 
+ <img src="Screenshots/Screenshot_home_Expo_Go.jpg" width="50%" height="auto"> 
 
 </p>
  <p align="center">
- <img src="/home/amir/AST-ASSESTMENT/AST-LB-Assestment-React/Screenshots/Screensho-test_Expo_Go.jpg" width="50%" height="auto">
+ <img src="Screenshots/Screensho-test_Expo_Go.jpg" width="50%" height="auto">
 </p>
 
 # Thank you for checking out GitHub Investigator! If you have any questions or feedback, please don't hesitate to contact us.
