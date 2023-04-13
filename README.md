@@ -1,7 +1,35 @@
 # GitHub Investigator
 
 GitHub Investigator is a project that allows users to search for GitHub users. The project is divided into two sections: a web app and a mobile app. 
+## Screenshots
 
+Here are some screenshots of the web and mobile apps:
+
+### Web App
+
+
+ <img src="Screenshots/Screenshot_web_login.png" width="auto" height="auto">
+
+ <img src="Screenshots/Screenshot_1_home.png" width="auto" height="auto">
+
+ <img src="Screenshots/Screenshot_2_home.png" width="auto" height="auto">
+
+ <img src="Screenshots/Screenshot_3_.png" width="auto" height="auto">
+
+
+### Mobile App
+
+
+ <p align="center">
+ <img src="Screenshots/Screenshot_login_Expo_Go.jpg" width="50%" > 
+</p>
+ <p align="center">
+ <img src="Screenshots/Screenshot_home_Expo_Go.jpg" width="50%" height="auto"> 
+
+</p>
+ <p align="center">
+ <img src="Screenshots/Screensho-test_Expo_Go.jpg" width="50%" height="auto">
+</p>
 ## Web App
 
 The web app is built using React, Redux Toolkit, Material UI, and TypeScript. To run the web app, follow these steps:
